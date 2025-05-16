@@ -22,6 +22,7 @@ class _AddEditProductScreenState extends State<AddEditProductScreen> {
   final _descriptionController = TextEditingController();
   
   bool _isLoading = false;
+  // @arielpradhana
   
   @override
   void initState() {
@@ -235,3 +236,5 @@ class _AddEditProductScreenState extends State<AddEditProductScreen> {
     );
   }
 }
+
+// Fiqri Ariel Pradhana
